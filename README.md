@@ -1,1 +1,1 @@
-# Stop-watch-and-Timner
+# Stop-watch-and-Timmer
